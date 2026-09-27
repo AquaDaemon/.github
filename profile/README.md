@@ -14,6 +14,7 @@ AqualinkD connects Jandy RS pool equipment to modern home automation systems, pr
 
 [Website](https://aquadaemon.org/aqualinkd/) · [GitHub](https://github.com/aqualinkd/AqualinkD)
 
+##
 ### [AquaChemD](https://github.com/aqualinkd/AquachemD)
 
 Automated pool water chemistry.
@@ -22,6 +23,21 @@ AquaChemD provides monitoring and dosing control for pool water chemistry, with 
 
 [Website](https://aquadaemon.org/aquachemd/) · [GitHub](https://github.com/aqualinkd/AquachemD)
 
+##
+### [homebridge-aquadaemon](https://github.com/AquaDaemon/homebridge-aquadaemon)
+
+AquaDaemon integration for Apple Home.
+
+Integrate AqualinkD or AquachemD devices and services with Apple Home through Homebridge.
+
+##
+### [AqualinkD serial HAT](https://github.com/aqualinkd/aqualinkd-zero-hat)
+
+Official AqualinkD RS485 adapter.
+
+Provide power and RS485 data to your Raspberry Pi directly from your pool control panel. (no more separate power supplies and USB2RS485 adapters)
+
+##
 ### [3D Printable](https://github.com/AquaDaemon/3D-Printable)
 
 3D-printable hardware for AquaDaemon projects.
