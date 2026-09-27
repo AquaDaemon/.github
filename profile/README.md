@@ -13,7 +13,7 @@ Jandy RS pool automation.
 
 AqualinkD connects Jandy RS pool equipment to modern home automation systems, providing control, monitoring, MQTT integration, APIs, and a web interface.
 
-[Website](https://aquadaemon.org/aqualinkd/) · [GitHub](https://github.com/aqualinkd/AqualinkD)
+[Website](https://aqualinkd.com) · [GitHub](https://github.com/aqualinkd/AqualinkD)
 
 ##
 ### [AquaChemD](https://github.com/aqualinkd/AquachemD)
