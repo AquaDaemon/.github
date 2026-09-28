@@ -1,10 +1,10 @@
 # AquaDaemon
-
+<!—-
 Open-source software and hardware for pool automation, water chemistry, and related systems.
 
 AquaDaemon is the umbrella for projects that connect, control, monitor, and extend pool equipment.
 [Website](https://aquadaemon.org)
-
+—->
 ## Main Projects
 
 ### [AqualinkD](https://github.com/aqualinkd/AqualinkD)
