@@ -14,7 +14,7 @@ AquaDaemon is the umbrella for projects that connect, control, monitor, and exte
 <td width="50%" valign="top">
 
 <a href="https://github.com/aqualinkd/AqualinkD">
-<img src="aqualinkd.png" width="48" height="48" align="left" alt="AqualinkD"></a>&nbsp;&nbsp;
+<img src="aqualinkd.png" width="48" height="48" align="left" alt="AqualinkD"></a>
 
 ### [AqualinkD](https://github.com/aqualinkd/AqualinkD)
 
