@@ -50,7 +50,7 @@ AquaChemD provides monitoring and dosing control for pool water chemistry, with 
 <td width="50%" valign="top">
 
 <a href="https://github.com/AquaDaemon/homebridge-aquadaemon">
-<!--<img src="icon.png" width="48" height="48" align="left" alt="homebridge-aquadaemon">-->
+<img src="homebridge-aquadaemon.png" width="48" height="48" align="left" alt="homebridge-aquadaemon">
 </a>
 
 ### [homebridge-aquadaemon](https://github.com/AquaDaemon/homebridge-aquadaemon)
