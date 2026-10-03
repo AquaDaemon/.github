@@ -1,11 +1,12 @@
 
-<p>
-<img src="aquadaemon.png" width="120" align="left" alt="AqualinkD"></a>
+<p align="center">
+  <img src="aquadaemon.png" width="120" alt="AquaDaemon logo">
 </p>
 
-# [AquaDaemon](https://aquadaemon.org)
+# AquaDaemon
 
 Open-source software and hardware for pool automation, water chemistry, and related systems.
+
 AquaDaemon is the umbrella for projects that connect, control, monitor, and extend pool equipment.
 
 [Website](https://aquadaemon.org)
