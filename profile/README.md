@@ -1,6 +1,6 @@
 
 <p>
-<img src="aqualinkd.png" width="80" height="80" align="left" alt="AqualinkD"></a>
+<img src="aquadaemon.png" width="120" align="left" alt="AqualinkD"></a>
 </p>
 
 # [AquaDaemon](https://aquadaemon.org)
