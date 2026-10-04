@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="aquadaemon-logo-text.png" height="120" alt="AquaDaemon logo">
+  <img src="aquadaemon-project.png" height="120" alt="AquaDaemon logo">
 </p>
 
 #
