@@ -17,7 +17,7 @@ AquaDaemon is the umbrella for projects that connect, control, monitor, and exte
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/aqualinkd/AqualinkD">
+<a href="https://github.com/aqualinkd/AqualinkD" style="text-decoration: none;">
 <img src="aqualinkd.png" width="48" height="48" align="left" alt="AqualinkD"></a>
 
 ### [AqualinkD](https://github.com/aqualinkd/AqualinkD)
@@ -33,7 +33,7 @@ AqualinkD connects Jandy RS pool equipment to modern home automation systems, pr
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/aqualinkd/AquachemD">
+<a href="https://github.com/aqualinkd/AquachemD" style="text-decoration: none;">
 <img src="aquachemd.png" width="48" height="48" align="left" alt="AquaChemD">
 </a>
 
@@ -53,7 +53,7 @@ AquaChemD provides monitoring and dosing control for pool water chemistry, with 
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/AquaDaemon/homebridge-aquadaemon">
+<a href="https://github.com/AquaDaemon/homebridge-aquadaemon" style="text-decoration: none;">
 <img src="homebridge-aquadaemon.png" width="48" height="48" align="left" alt="homebridge-aquadaemon">
 </a>
 
@@ -70,8 +70,8 @@ Integrate AqualinkD or AquaChemD devices and services with Apple Home through Ho
 </td>
 <td width="50%" valign="top">
 
-<a href="https://github.com/aqualinkd/aqualinkd-zero-hat">
-<!--<img src="icon.png" width="48" height="48" align="left" alt="AqualinkD serial HAT">-->
+<a href="https://github.com/aqualinkd/aqualinkd-zero-hat" style="text-decoration: none;">
+<img src="aqualinkd-hat.png" width="48" height="48" align="left" alt="AqualinkD serial HAT">
 </a>
 
 ### [AqualinkD serial HAT](https://github.com/aqualinkd/aqualinkd-zero-hat)
@@ -90,8 +90,8 @@ Provide power and RS485 data to your Raspberry Pi directly from your pool contro
 <tr>
 <td width="50%" valign="top">
 
-<a href="https://github.com/AquaDaemon/3D-Printable">
-<!--<img src="logo.png" width="48" height="48" align="left" alt="3D Printable">-->
+<a href="https://github.com/AquaDaemon/3D-Printable" style="text-decoration: none;">
+<img src="aqualinkd-3d-printable.png" width="48" height="48" align="left" alt="3D Printable">
 </a>
 
 ### [3D Printable](https://github.com/AquaDaemon/3D-Printable)
