@@ -107,8 +107,28 @@ Cases, covers, brackets, and other printable parts for AqualinkD, AquaChemD, and
 </td>
 <td width="50%" valign="top">
 
+<a href="http://aqualinkd.com/purchase/" style="text-decoration: none;">
+<img src="aquadaemon.png" width="48" height="48" align="left" alt="AqualinkD serial HAT">
+</a>
+
+### [AqualinkD kits & hats](http://aqualinkd.com/purchase/)
+
+Don't want to build yourself.
+
+Pre made 'plug-in & go' kits and HATs are available to purchase
+
+[Website](http://aqualinkd.com/purchase/)
+
+<br clear="left">
+
 </td>
+
+
 </tr>
+
+
+
+
 </table>
 
 ## About
