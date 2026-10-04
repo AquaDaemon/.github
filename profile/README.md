@@ -1,9 +1,9 @@
 
 <p align="center">
-  <img src="aquadaemon.png" width="120" alt="AquaDaemon logo">
+  <img src="aquadaemon-logo-text.png" height="120" alt="AquaDaemon logo">
 </p>
 
-# AquaDaemon
+#
 
 Open-source software and hardware for pool automation, water chemistry, and related systems.
 
